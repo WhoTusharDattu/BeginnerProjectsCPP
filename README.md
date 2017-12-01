@@ -15,5 +15,8 @@ Some ways to contribute are:
 ## Project List
 
 
-##### Project 1
-Description of problem in short
+##### Palindrome Checker
+To find if a given number is palindrome or not.
+A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward or forward.
+
+- [Palindrome Checker](https://github.com/vikramdattu/BeginnerProjectsCPP/blob/master/Palindrome)
